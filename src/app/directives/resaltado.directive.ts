@@ -1,6 +1,5 @@
 import { Directive, ElementRef, HostListener, Input } from "@angular/core";
-import { hostname } from "os";
-
+// import { hostname } from "os";
 @Directive({
   selector: "[appResaltado]"
 })
